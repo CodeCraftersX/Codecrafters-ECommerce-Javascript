@@ -1,1 +1,3 @@
-# Codecrafters-ECommerce-Javascript
+# Elegant
+
+E commerce site
